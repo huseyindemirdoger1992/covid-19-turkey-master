@@ -1,0 +1,25 @@
+{
+  "name": "covid-19-turkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbayindir/covid-19-turkey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbayindir/covid-19-turkey/issues"
+  },
+  "homepage": "https://github.com/hbayindir/covid-19-turkey#readme",
+  "dependencies": {
+    "axios": ">=0.21.2",
+    "jsdom": "^16.2.2",
+    "json2csv": "^5.0.0",
+    "moment-timezone": "^0.5.28"
+  }
+}
